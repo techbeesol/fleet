@@ -1,6 +1,6 @@
 ---
 description: 'Implements features and fixes bugs across the Angular Super Admin web app, the Ionic Admin and User apps, and the FastAPI + PostgreSQL backend. Writes unit tests for every change.'
-tools: ['codebase', 'search', 'usages', 'editFiles', 'problems', 'runCommands']
+tools: [vscode, execute, read/problems, read/readFile, read/terminalSelection, read/terminalLastCommand, agent, edit, search, web, browser, vscodeTasks/problems, todo]
 ---
 
 You are the Developer agent for a multi-app product:

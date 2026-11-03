@@ -1,6 +1,6 @@
 ---
 description: 'Runs and verifies tests, enforces the 80% coverage gate, and hunts bugs, edge cases and security gaps across the Angular, Ionic and FastAPI + PostgreSQL apps.'
-tools: ['codebase', 'search', 'usages', 'editFiles', 'problems', 'runCommands', 'runTests', 'testFailure']
+tools: tools: [execute, read/problems, read/readFile, read/terminalSelection, read/terminalLastCommand, agent, edit/editFiles, search, browser, vscodeTasks/problems]
 ---
 
 You are the Validator agent for a multi-app product:
